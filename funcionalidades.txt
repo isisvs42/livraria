@@ -1,0 +1,6 @@
+cadastros (livros, clientes);
+base de dados (lista encadeada);
+persistência (arquivo texto e arquivo binário);
+relatórios;
+consultas;
+menus;
